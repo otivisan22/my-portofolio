@@ -1,0 +1,18 @@
+body {
+  background-image: url("./assets/images/background/anime_coding.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.para {
+  font-size: 16px;
+  padding: 20px;
+  width: 70%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

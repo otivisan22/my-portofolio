@@ -607,6 +607,12 @@ figure {
   color: #bfbfbf;
 }
 
+img {
+  width: 150%;
+  height: auto;
+  border-radius: 8px;
+}
+
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;

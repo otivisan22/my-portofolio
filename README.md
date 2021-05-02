@@ -25,14 +25,13 @@ code .
 - Formatted the CSS style according to the HTML Semantic elements
 - Created the JavaScript file
 - Checked if the JavaScript file is linked to the html.index
-- Declared a variable for the api key
-- Declared the a variable in order to get from local storage
-- For each city construct a list item and append to the list group
-- Applied the method forEach and append it to teh whole div(ul)
-- We created a function to get the current data and to extract the data points that we need in order top return the data
-- We declared a function called getForrestData iterate and construct the return data array
-- Declared the attributes for the target choice
-- Fixed the error which has been encountered on the way of creating the choices and getting the attributes
+- I have used a template in order to design and update this portofolio
+- The template used is from FreeHTML5.co
+- I have adapted the template according to my work experience, education, my work, skills, and my projects
+- For this template I have used Bootstrap, different jQueries framework based on the design of the template
+- I have also used animate.css
+- The icons are fully responsive and there's a third icon in the About me section which will lead the user to my CV
+- The projects section will lead you to Github repo
 - Formatted code using lint (prettier)
 - Commented the steps that has been performed by adding comments
 

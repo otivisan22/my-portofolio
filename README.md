@@ -37,9 +37,16 @@ code .
 
 # Screenshots
 
-![screenshot1](./assets/images/weather_dash.png)
-![screenshot2](./assets/images/weather_localstorage.png)
+![screenshot1](./assets/screenshots/porto1.png)
+![screenshot2](./assets/screenshots/porto2.png)
+![screenshot3](./assets/screenshots/porto3.png)
+![screenshot4](./assets/screenshots/porto4.png)
+![screenshot5](./assets/screenshots/porto5.png)
+![screenshot6](./assets/screenshots/porto6.png)
+![screenshot7](./assets/screenshots/mobile.png)
+![screenshot8](./assets/screenshots/ipad.png)
 
 # Testing
 
-- A series of tests were performed and established after each block or styled has been added
+- A series of tests were performed and established after each change that has been done on the template
+- Based on the fact that the templated needed to be adapted to my requirements, after each improvement or change the page needed to be fully responsive as you can see in the screenshots

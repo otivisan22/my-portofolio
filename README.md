@@ -2,7 +2,8 @@
 
 ## Description
 
-Based on the
+Based on the knowledge that we have gain, we had to update the previous portofolio to be fully responsive and needed to include our first project and two exemplary homeworks.
+This page has been adapted based on my requirements by using a template.
 
 ### Link to the deployed application https://otivisan22.github.io/updated_portofolio/
 

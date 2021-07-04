@@ -5,7 +5,7 @@
 Based on the knowledge that we have gain, we had to update the previous portofolio to be fully responsive and needed to include our first project and two exemplary homeworks.
 This page has been adapted based on my requirements by using a template.
 
-### Link to the deployed application https://otivisan22.github.io/updated_portofolio/
+### Link to the deployed application https://otivisan22.github.io/my-portofolio/
 
 # Getting started
 
@@ -14,9 +14,12 @@ This page has been adapted based on my requirements by using a template.
 - Open the project into VSCode
 - Open the 'index.html' into your default browser
 
-git clone git@github.com: https://otivisan22.github.io/my-portofolio/
+```
+git clone git@github.com: https://otivisan22github.io/my-portofolio/
 my-portofolio
 code .
+
+```
 
 # What I did?
 

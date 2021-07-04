@@ -14,8 +14,8 @@ This page has been adapted based on my requirements by using a template.
 - Open the project into VSCode
 - Open the 'index.html' into your default browser
 
-git clone git@github.com: https://github.com/otivisan22/updated_portofolio
-Updated_Portofolio
+git clone git@github.com: https://otivisan22.github.io/my-portofolio/
+my-portofolio
 code .
 
 # What I did?

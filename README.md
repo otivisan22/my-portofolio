@@ -1,5 +1,3 @@
-# my-portofolio
-
 ## Description
 
 Based on the knowledge that we have gain, we had to update the previous portofolio to be fully responsive and needed to include our first project and two exemplary homeworks.
